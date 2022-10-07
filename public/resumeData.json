@@ -1,0 +1,82 @@
+{
+  "main": {
+    "name": "Shivani Agarwal",
+    "occupation": "Frontend Developer",
+    "description": "I eat, sleep and breathe Code",
+    "image": "Shivani pic Cropped.png",
+    "bio": "Hi there! I am Shivani! A quirky, creative final year Engineering student exploring Technology & its roots. I am currently working on Web Development technologies and designing graceful websites. I've organised a Tech Fest and sports event at my college and Presented Technical studies several times. I know to manage my coding, academics, exploration of new technologies, and have FUN all in 24 hours. ",
+    "contactmessage": "Get in touch with me!",
+    "email": "shivaniagar7@gmail.com",
+    "phone": "+91 8534039512",
+    "address": {
+      "street": "Subhash Nagar",
+      "city": "Bareilly",
+      "state": "Uttar Pradesh",
+      
+      "zip": "W3B D3V"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shivani-agarwal-3781011b5",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/khu.shiagarwal/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ShivaniAgarwal07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dr. A.P.J Abdul Kalam Technical University-INDIA",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2019-Present",
+        "description": "Securing First Position with taking all the perks of college life"
+      }
+    ],
+    "work": [
+      {
+        "company": "Web Development",
+        "title": " Using HTML CSS JavaScript for building Personal Projects",
+        "years": "May 2021 - Present",
+        "description": "Trying to Clone all the apps possible for better learning. On the way to clone the world! "
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "45%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  }
+  
+  
+}
